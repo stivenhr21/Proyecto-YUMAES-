@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventarioYumaes", "InventarioYumaes\InventarioYumaes.csproj", "{2E9B642B-00E1-410A-873E-242161098503}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadenaConexion", "CadenaConexion\CadenaConexion.csproj", "{87D36C1D-96AB-4FAF-9B33-2D6C09A77FDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E9B642B-00E1-410A-873E-242161098503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E9B642B-00E1-410A-873E-242161098503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E9B642B-00E1-410A-873E-242161098503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E9B642B-00E1-410A-873E-242161098503}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87D36C1D-96AB-4FAF-9B33-2D6C09A77FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87D36C1D-96AB-4FAF-9B33-2D6C09A77FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87D36C1D-96AB-4FAF-9B33-2D6C09A77FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87D36C1D-96AB-4FAF-9B33-2D6C09A77FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B43DF4BE-469D-429E-94F0-7442A2D32DFC}
+	EndGlobalSection
+EndGlobal

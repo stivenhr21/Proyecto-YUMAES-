@@ -1,0 +1,4 @@
+C:\Users\stive\Desktop\Yumaes\InventarioYumaes\CadenaConexion\bin\Debug\CadenaConexion.dll
+C:\Users\stive\Desktop\Yumaes\InventarioYumaes\CadenaConexion\bin\Debug\CadenaConexion.pdb
+C:\Users\stive\Desktop\Yumaes\InventarioYumaes\CadenaConexion\obj\Debug\CadenaConexion.dll
+C:\Users\stive\Desktop\Yumaes\InventarioYumaes\CadenaConexion\obj\Debug\CadenaConexion.pdb
